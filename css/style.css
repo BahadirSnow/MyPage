@@ -86,3 +86,26 @@ section {
     background: #252525;
     color: #fff;
 }
+
+.name,
+time,
+.accent-text{
+    color: #99D930;
+    font-weight: 900;
+}
+
+.inverse .btn:hover,
+.inverse .btn:focus{
+    background-color: #fff;
+    color: #252525;
+}
+
+h1 .accent-text{
+    font-size: 80px;
+    display: block;
+}
+
+h2 .accent-text{
+    font-size: 60px;
+    display: block;
+}
